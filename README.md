@@ -9,7 +9,7 @@ Repositório destinado ao disponibilização das logos utilizadas pela comunidad
 
 Neste repositório também está disponível a arte no formato vetorizado para camisetas da comunidade PHPDF.
 
-### :exclamation: Contribuindo
+### :handshake: Contribuindo
 
  * Se você perceber que algo esta errado, [abra uma issue no GitHub](https://github.com/php-fig/php-fig.github.com/issues).
 
